@@ -8,6 +8,8 @@ Educational (made during education at ETU) repositories:
 
 Courses completed:
 * Solved all the basic exercises (does not include user-created exercises) in the [SQL course on Stepik](https://stepik.org/course/63054/info)
+* [Itroduction to ROS (Robot Operation System) (Stepik)](https://stepik.org/course/3222/info)
+* [Itroduction to Data Science & Machine Learning (Stepik)](https://stepik.org/course/4852/info)
 
 <!--
 **mirrin00/mirrin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
