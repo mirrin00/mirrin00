@@ -1,9 +1,14 @@
-### Hi there 👋
+### Have a nice day 👋
+
+Hackatons:
+* Creating digital emotions for *Nexign*. Ranked 3/~60. [Repository](https://github.com/Homry/hackaton22)
 
 <!--
 **mirrin00/mirrin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+***Just get some rest😎***
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
