@@ -8,8 +8,11 @@ Educational (made during education at ETU) repositories:
 
 Courses completed:
 * Solved all the basic exercises (does not include user-created exercises) in the [SQL course on Stepik](https://stepik.org/course/63054/info). [Certificate](https://stepik.org/cert/1073380)
-* [Itroduction to ROS (Robot Operation System) (Stepik)](https://stepik.org/course/3222/info). [Certificate](https://stepik.org/cert/810969)
-* [Itroduction to Data Science & Machine Learning (Stepik)](https://stepik.org/course/4852/info). [Certificate](https://stepik.org/cert/1746489)
+* Itroduction to ROS (Robot Operation System) [(Stepik)](https://stepik.org/course/3222/info). [Certificate](https://stepik.org/cert/810969)
+* Itroduction to Data Science & Machine Learning [(Stepik)](https://stepik.org/course/4852/info). [Certificate](https://stepik.org/cert/1746489)
+
+Hackatons:
+* Creating digital emotions for *Nexign*. Ranked 3/~60. [Repository](https://github.com/Homry/hackaton22)
 
 <!--
 **mirrin00/mirrin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
